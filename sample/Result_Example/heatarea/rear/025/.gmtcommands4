@@ -1,0 +1,13 @@
+# GMT common arguments shelf
+-B1:Potential Temp.[K]:
+-JM9
+-R120/134/28/36
+-X2
+-x11
+-Y14
+-y0
+-jM9
+EOF
+
+EOF
+

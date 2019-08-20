@@ -1,0 +1,10 @@
+# GMT common arguments shelf
+-B1:Water Vapor Mixing Ratio[g/kg]:
+-JM7.8
+-R120/134/28/36
+-X2
+-x9.5
+-Y14
+-y0
+-jM7.8
+EOF
